@@ -1,0 +1,64 @@
+.merchantIncomeDetail .content.data-v-1adde53c {
+  overflow: hidden;
+}
+.merchantIncomeDetail .content .title.data-v-1adde53c {
+  font-weight: bold;
+  margin: 105rpx 0 47rpx 71rpx;
+  font-size: 36rpx;
+  color: #fff;
+}
+.merchantIncomeDetail .content .down_wrap.data-v-1adde53c {
+  padding: 0 41rpx 0 70rpx;
+  color: #fff;
+  font-size: 30rpx;
+}
+.merchantIncomeDetail .content .down_wrap .content.data-v-1adde53c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.merchantIncomeDetail .main.data-v-1adde53c {
+  margin-top: 21rpx;
+  padding: 0 32rpx;
+}
+.merchantIncomeDetail .main .detial_item.data-v-1adde53c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border: 1rpx solid #b3b3b3;
+  border-left: 4rpx solid #5db793;
+  padding: 21rpx 42rpx 23rpx 32rpx;
+  margin-bottom: 20rpx;
+}
+.merchantIncomeDetail .main .detial_item .left_wrap .good_name.data-v-1adde53c {
+  font-size: 28rpx;
+  color: #5db793;
+  margin-bottom: 20rpx;
+}
+.merchantIncomeDetail .main .detial_item .left_wrap .good_num.data-v-1adde53c {
+  font-size: 24rpx;
+  color: #333333;
+}
+.merchantIncomeDetail .main .detial_item .price.data-v-1adde53c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 30rpx;
+  color: #e40000;
+}
+

@@ -1,0 +1,16 @@
+/* 页面初始化 */
+	page,view,text,image,navigator,swiper,swiper-item,button,input {
+	    margin: 0;
+	    padding: 0;
+	    box-sizing: border-box;
+	}
+	
+	image {
+		width: 100%;
+	}
+	
+	page {
+	    --themeColor :#3F79FBFF;
+		font-size: 28rpx;
+		font-family: PingFang SC;
+	}

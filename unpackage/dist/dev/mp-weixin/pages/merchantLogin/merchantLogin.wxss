@@ -1,0 +1,57 @@
+.merchantLogin .wel_desc.data-v-77c40bb4 {
+  color: #fff;
+  padding: 93rpx 0 0 101rpx;
+}
+.merchantLogin .wel_desc .say_hi.data-v-77c40bb4 {
+  font-size: 36rpx;
+  margin-bottom: 36rpx;
+}
+.merchantLogin .main.data-v-77c40bb4 {
+  margin: 65rpx 104rpx 0 103rpx;
+}
+.merchantLogin .main .form.data-v-77c40bb4 {
+  margin-bottom: 112rpx;
+}
+.merchantLogin .main .form .form_item.data-v-77c40bb4 {
+  margin-bottom: 59rpx;
+  padding-bottom: 18rpx;
+  border-bottom: 1rpx solid #808080FF;
+}
+.merchantLogin .main .form .form_item.data-v-77c40bb4 .uni-input-placeholder,
+.merchantLogin .main .form .form_item input.data-v-77c40bb4 {
+  font-size: 28rpx;
+  color: #808080;
+}
+.merchantLogin .main .form .form_item .item_title.data-v-77c40bb4 {
+  font-size: 32rpx;
+  margin-bottom: 51rpx;
+}
+.merchantLogin .main .form .form_item .write_wrap.data-v-77c40bb4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.merchantLogin .main .form .form_item .write_wrap .captcha.data-v-77c40bb4 {
+  cursor: pointer;
+  font-size: 24rpx;
+  color: #5DB793;
+}
+.merchantLogin .main .form .form_item .write_wrap .again.data-v-77c40bb4 {
+  font-size: 24rpx;
+  color: #C8C7CC;
+}
+.merchantLogin .main .login_btn.data-v-77c40bb4 {
+  width: 541rpx;
+  height: 80rpx;
+  background-color: #5DB793;
+  color: #fff;
+  line-height: 80rpx;
+  text-align: center;
+  border-radius: 40rpx;
+}
+

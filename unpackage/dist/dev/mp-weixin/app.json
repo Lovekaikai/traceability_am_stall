@@ -1,0 +1,24 @@
+{
+  "pages": [
+    "pages/merchantLogin/merchantLogin",
+    "pages/index/index",
+    "pages/merchantStallInfo/merchantStallInfo",
+    "pages/merchantIncomeStatistics/merchantIncomeStatistics",
+    "pages/merchantIncomeDetail/merchantIncomeDetail",
+    "pages/merchantProductRun/merchantProductRun",
+    "pages/merchantTracking/merchantTracking",
+    "pages/merchantIncomeTicket/merchantIncomeTicket"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "商户农贸市场",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "networkTimeout": {
+    "request": 20000,
+    "uploadFile": 20000
+  },
+  "usingComponents": {}
+}

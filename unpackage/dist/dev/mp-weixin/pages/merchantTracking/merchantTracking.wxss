@@ -1,0 +1,59 @@
+.merchantTracing.data-v-c45626fc {
+  padding-bottom: 80rpx;
+}
+.merchantTracing .content.data-v-c45626fc {
+  padding: 10rpx 10rpx 10rpx 20rpx;
+  color: #fff;
+  font-size: 30rpx;
+}
+.merchantTracing .content .stall_num.data-v-c45626fc {
+  margin-bottom: 10rpx;
+}
+.merchantTracing .good_pics_wrap.data-v-c45626fc {
+  white-space: nowrap;
+}
+.merchantTracing .good_pics_wrap .pic_item.data-v-c45626fc {
+  display: inline-block;
+}
+.merchantTracing .good_pics_wrap .pic_item image.data-v-c45626fc {
+  width: 168rpx;
+  height: 168rpx;
+  border-radius: 10rpx;
+  margin: 0 28rpx;
+}
+.merchantTracing .main .info_item.data-v-c45626fc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 30rpx;
+}
+.merchantTracing .main .info_item .item_title.data-v-c45626fc {
+  color: #808080;
+  width: 30%;
+  text-align: right;
+}
+.merchantTracing .main .info_item .item_desc.data-v-c45626fc {
+  width: 70%;
+  color: #333333;
+  margin-left: 30rpx;
+}
+.merchantTracing .main .good_info_wrap.data-v-c45626fc {
+  margin: 41rpx 0 66rpx 0;
+  padding: 0 30rpx 0 6px;
+}
+.merchantTracing .main .show_content .flow_track.data-v-c45626fc {
+  padding: 45rpx 0 0 43rpx;
+}
+.merchantTracing .main .show_content .inspect_record.data-v-c45626fc {
+  padding: 10rpx 48rpx;
+}
+.merchantTracing .main .show_content .inspect_record .info_item.data-v-c45626fc {
+  margin-bottom: 40rpx;
+}
+.merchantTracing .main .show_content .isEmpty.data-v-c45626fc {
+  text-align: center;
+  margin-top: 50rpx;
+  color: #999;
+}
+

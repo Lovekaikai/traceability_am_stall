@@ -1,0 +1,50 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		// 商户农贸 登录
+		{
+		    "path" : "pages/merchantLogin/merchantLogin",
+		    "style" : {}
+		},	
+		// 商户农贸 首页
+		{
+			"path": "pages/index/index",
+			"style": {}
+		},							
+		// 商户农贸 摊主资料
+        {
+            "path" : "pages/merchantStallInfo/merchantStallInfo",
+            "style" : {}
+        }
+		// 商户农贸 收入统计
+        ,{
+            "path" : "pages/merchantIncomeStatistics/merchantIncomeStatistics",
+            "style" : {}
+        }
+		// 商户农贸 收入统计-明细
+        ,{
+            "path" : "pages/merchantIncomeDetail/merchantIncomeDetail",
+            "style" : {}
+        }
+		// 商户农贸 商品管理
+        ,{
+            "path" : "pages/merchantProductRun/merchantProductRun",
+            "style" : {}
+        }
+		// 商户农贸 流涌追溯
+		,{
+		    "path" : "pages/merchantTracking/merchantTracking",
+		    "style" : {}
+		}
+		//商户农贸 收入统计-小票列表
+        ,{
+            "path" : "pages/merchantIncomeTicket/merchantIncomeTicket",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "商户农贸市场",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "navbar": "/components/navbar/navbar",
+    "track-tab": "/components/trackTab/trackTab",
+    "uni-steps": "/components/uni-steps/uni-steps"
+  }
+}

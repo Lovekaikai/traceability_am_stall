@@ -1,0 +1,48 @@
+.merchantIncomeTicket {
+	.title {
+		position: absolute;
+		top: 113rpx;
+		left: 71rpx;
+		font-size: 36rpx;
+		color: #fff;
+		font-weight: bold;
+	}
+	
+	.main {
+		margin-top: 21rpx;
+		padding: 0 32rpx;
+		.ticket_item {
+			display: flex;
+			justify-content: space-between;
+			border: 1rpx solid #B3B3B3;
+			border-left: 4rpx solid #5DB793;
+			padding: 22rpx 34rpx 23rpx 31rpx;
+			margin-bottom: 20rpx;
+			.left_wrap {
+				.amount {
+					font-size: 28rpx;
+					color: #5DB793;
+					margin-bottom: 20rpx;
+				}
+				.date {
+					font-size: 24rpx;
+					color: #333333;
+				}
+			}
+			.right_wrap {
+				display: flex;
+				align-items: center;
+				font-size: 24rpx;
+				color: #EA0000;
+				.arrow {
+					width: 13rpx;
+					height: 13rpx;
+					border-top: 3rpx solid #5DB793;
+					border-right:3rpx solid #5DB793;
+					transform: rotate(45deg);
+					margin-left: 17rpx;
+				}
+			}
+		}
+	}
+}
